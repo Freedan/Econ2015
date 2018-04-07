@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Econ2015", "Econ2015\Econ2015.csproj", "{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconUpdater", "EconUpdater\EconUpdater.csproj", "{A9639521-293F-4F7A-868D-0646429AFF5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4E7B5E-5D2D-4502-BE21-D301EE53A5D3}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{A9639521-293F-4F7A-868D-0646429AFF5C}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://freedan.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Econ2015\\Econ2015.csproj
+		SccProjectName1 = Econ2015
+		SccLocalPath1 = Econ2015
+		SccProjectUniqueName2 = EconUpdater\\EconUpdater.csproj
+		SccProjectName2 = EconUpdater
+		SccLocalPath2 = EconUpdater
+	EndGlobalSection
+EndGlobal
